@@ -12,4 +12,3 @@ Password: <type your password>
 
 you can also expire the credentails with below command
 git config --global credential.helper 'cache --timeout 7200' 
--------------------------------------------------------------
